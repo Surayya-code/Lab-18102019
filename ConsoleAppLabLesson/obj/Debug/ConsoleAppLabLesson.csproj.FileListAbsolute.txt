@@ -1,0 +1,7 @@
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\obj\Debug\ConsoleAppLabLesson.csprojAssemblyReference.cache
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\obj\Debug\ConsoleAppLabLesson.csproj.CoreCompileInputs.cache
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\bin\Debug\ConsoleAppLabLesson.exe.config
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\bin\Debug\ConsoleAppLabLesson.exe
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\bin\Debug\ConsoleAppLabLesson.pdb
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\obj\Debug\ConsoleAppLabLesson.exe
+C:\Users\SurayyaAh\source\repos\ConsoleAppLabLesson\ConsoleAppLabLesson\obj\Debug\ConsoleAppLabLesson.pdb
